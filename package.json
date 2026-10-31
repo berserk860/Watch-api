@@ -1,0 +1,14 @@
+{
+  "name": "anime-language-api",
+  "version": "1.2.0",
+  "description": "Anime API with case-insensitive partial search and episode data without episode titles",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  }
+}
